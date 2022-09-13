@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+.highlight
+{
+    background-color: teal;
+}
+.thisone
+{
+    font-family: sans-serif !important;
+    color:white !important;
+    text-align:center;
+    justify-content: center;
+}
+.bg
+{
+background-image: url(https://images.ctfassets.net/pmphlmr7rdvc/sCnC5rEgRDygFcN4B7bEM/af7e3a7d985559c263b769cd8e1cb83d/home-hero-v2.png);
+height: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size:auto;
+
+}
+button{
+    font-family: 'Montserrat', sans-serif !important;
+    color:white !important;
+    font-weight: bold;
+  
+}
+.nav-link
+{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold;
+    font-size: small !important;
+    
+}
+.only
+{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: bold;
+}
+.move-up
+{
+    padding: 100px;
+}
+.float-end
+{
+    margin-block-end: 20px;
+}
+.navbar-brand
+{
+   width:200px;
+}
+.container
+{
+    font-family: 'Montserrat', sans-serif !important;
+    color: black!important;
+}
+.up{
+    padding-top: 100px;
+
+}
+
+.leftimg
+{
+    width:600px;
+   margin-block-end: 200px;
+   margin-left: 470px;
+   margin-top: -120px;
+}
+.thisone{
+    background-color: rgba(255, 255, 255, 0.205);
+    color: black !important;;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .thisone{
+        background-color: rgba(255, 255, 255, 0.205);
+        color: black !important;;
+    }
+    .navbar-brand{
+        color:black;
+    }
+    .up
+    {
+        padding-top: 200px;
+    }
+    
+}
+
+
